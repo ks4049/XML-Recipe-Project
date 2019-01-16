@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Recipe_Style.xslt"?>
+<!DOCTYPE Recipe SYSTEM "validate_recipe.dtd">
+<Recipe>
+	<recipe_name>Moist Banana Bread </recipe_name>
+	<recipe_image>Banana-Bread.jpg</recipe_image>
+	<recipe_by> Natasha </recipe_by>	
+	<serves>10</serves>
+	<ingredients>
+		<ingredient>3 (medium/large) ripe bananas mashed with a fork</ingredient>
+		<ingredient>1/2 cup unsalted butter (8 Tbsp) at room temperature</ingredient>
+		<ingredient>3/4 cup white sugar</ingredient>
+		<ingredient>2 eggs lightly beaten</ingredient>
+		<ingredient>1 ½ cups all-purpose flour</ingredient>
+		<ingredient>1 tsp baking soda</ingredient>
+		<ingredient>1/2 tsp salt</ingredient>
+		<ingredient>1/2 tsp vanilla</ingredient>
+		<ingredient>1 cup walnuts</ingredient>
+		<ingredient>1/2 cup raisins</ingredient>
+	</ingredients>
+	<procedure>
+		<step>Preheat the oven to 350°F.  </step>
+		<step> Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). </step>
+		<step> Lightly roast walnuts on a skillet, continuously stirring so they won’t burn. </step>
+		<step> Coarsely chop and cool to room temperature.  </step>
+
+		<step> In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey). </step>
+
+		<step> Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended. </step>
+
+		<step> In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter. </step>
+		<step> Add 1/2 tsp of vanilla extract and mix in chopped walnuts and raisins. </step>
+
+		<step> Pour into prepared loaf pan. </step>
+
+		<step> Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. </step>
+		
+		<step> Let banana bread rest for 10 min before transferring to wire rack to cool. </step>
+	</procedure>
+	<hints>
+		To ripen bananas quickly, put them into a paper bag and fold down the top. The bananas should ripen in 2 days.
+	</hints>
+</Recipe>

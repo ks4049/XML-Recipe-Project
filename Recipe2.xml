@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Recipe_Style.xslt"?>
+<!DOCTYPE Recipe SYSTEM "validate_recipe.dtd">
+<Recipe>
+	<recipe_name>Chicken Saltimbocca</recipe_name>
+	<recipe_image>Chicken.jpg</recipe_image>
+	<recipe_by> Dan Eaton </recipe_by>
+	<serves>2-4 </serves>
+	<ingredients>
+		<ingredient>4 chicken cutlets</ingredient>
+		<ingredient>4 whole fresh sage leaves (plus 2-3 tsp chopped sage)</ingredient>
+		<ingredient>4 thin slices prosciutto (or more or less as needed)</ingredient>
+		<ingredient>Olive oil for sautéing chicken</ingredient>
+		<ingredient>1 Tbs butter</ingredient>
+		<ingredient>6-8 ounces sliced mushrooms</ingredient>
+		<ingredient>1/4 cup finely diced onion</ingredient>
+		<ingredient>1/2 cup Marsala wine</ingredient>
+		<ingredient>1/2 cup chicken stock</ingredient>
+		<ingredient>Salt and pepper to taste</ingredient>
+		<ingredient>More butter as needed to help thicken final sauce (optional)</ingredient>
+	</ingredients>
+	<procedure>
+		<step>Place the chicken cutlets on top of a sheet of plastic wrap and place one fresh sage leaf of top of each one, top each one with a thin layer of prosciutto, place another sheet of plastic wrap on top and use a meat hammer or rolling pin to pound the chicken so that the prosciutto adheres. </step>
+
+		<step> Add a good splash of olive oil to a large heavy bottomed pan on medium high heat and, when the oil is hot; carefully add the chicken...prosciutto side down. </step>
+
+		<step> Once the prosciutto has crisped up nicely, flip the chicken and keep cooking it on the second side. </step>
+
+		<step> Take the chicken out of the pan and let it rest on a clean plate, it doesn't need to be cooked all the way through at this point because you will finish cooking it in the sauce later on. </step>
+
+		<step> Add a dollop of butter to the pan and then add 6-8 ounces of sliced mushrooms and about 1/4 cup finely diced onion and 2-3 tsp fresh chopped sage and get those going. </step>
+
+		<step> Once the mushrooms have cooked down a bit, add 1/2 cup Marsala wine and 1/2 cup chicken stock turn the heat to high and let it cook down to a sauce consistency. </step>
+
+		<step> When the sauce is just about there, add the chicken back to the pan to finish cooking through and it's time to eat. </step>
+	</procedure>
+	<hints>
+		Serve with rice or simple olive oil dress pasta. Depending on how hungry you are….you may want more than one cutlet per serving.
+	</hints>
+</Recipe>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Recipe_Style.xslt"?>
+<!DOCTYPE Recipe SYSTEM "validate_recipe.dtd">
+<Recipe>
+	<recipe_name>Buttermilk Fried Sweet Onion Rings</recipe_name>
+	<recipe_image>Fried-Onion-Ring.jpg</recipe_image>
+	<recipe_by> Dan Eaton </recipe_by>
+	<serves>4-6 as a side</serves>
+	<ingredients>
+		<ingredient>2 large sweet onions (Vidalia, Texas or Mayan Sweet)</ingredient>
+		<ingredient>Approx. 1 quart buttermilk</ingredient>
+		<ingredient>4 cups vegetable oil for deep frying</ingredient>
+		<ingredient>1 1/2 cups all-purpose flour</ingredient>
+		<ingredient>1/4 cup cornmeal</ingredient>
+		<ingredient>1 Tbs finely minced fresh rosemary (optional but good)</ingredient>
+		<ingredient>Pinch salt</ingredient>
+		<ingredient>1/2 tsp ground cayenne</ingredient>
+		<ingredient>Salt to taste after frying</ingredient>
+	</ingredients>
+	<procedure>
+		<step>	Get started by cutting the tops and bottoms off of the onions, then peeling them and cutting them crosswise into rings about 1/2-inch thick. </step>
+
+		<step> Separate the slices onions into individual rings and place those into a large baking dish and add enough buttermilk to just about cover. </step>
+
+		<step> Let the onions soak in the buttermilk for at least 15 minutes and, while that's happening, add 4 cups of vegetable oil to a deep stainless steel pot on the stovetop and slowly bring that up to 360 degrees. </step>
+
+		<step> Use a bowl to combine 1 1/2 cups all-purpose flour with 1/4 cup cornmeal and 1 optional Tbs finely chopped fresh rosemary and a pinch of cayenne pepper and a pinch of salt and mix it up. </step>
+
+		<step> Use a deep fry thermometer to keep an eye on the temperature of the oil and also preheat the oven to 200 degrees and line a baking tray with paper towels, with a cooling rack on top, so you can keep the onion rings warm in the oven as you go. </step>
+
+		<step> When the oil is hot enough, dredge 5-6 onion rings at a time in the flour mixture and, once the oil does hit 360 degrees, very carefully add 1 onion ring at a time and let those fry along until they turn a nice golden brown. </step>
+
+		<step> You may have to adjust the heat a little bit as you're adding the onion rings so the oil stays at 360 degrees and once they're a nice golden brown, take them out of the oil and place them on the cooling rack, season with salt to taste and place the tray into the oven to keep warm as you're doing the other onion rings. </step>
+	</procedure>
+	<hints>
+		Use the leftover buttermilk for something like cornbread or biscuits instead of tossing it out.
+		You may need to sift the dredging flour at some point during the process or add more flour as needed.
+	</hints>
+</Recipe>

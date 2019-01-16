@@ -1,0 +1,10 @@
+<!ELEMENT Recipe (recipe_name,recipe_image,recipe_by,serves,ingredients,procedure,hints?)>
+<!ELEMENT recipe_name (#PCDATA)>
+<!ELEMENT recipe_image (#PCDATA)>
+<!ELEMENT recipe_by (#PCDATA)>
+<!ELEMENT serves (#PCDATA)>
+<!ELEMENT ingredients (ingredient+)>
+<!ELEMENT ingredient (#PCDATA)>
+<!ELEMENT procedure (step+)>
+<!ELEMENT step (#PCDATA)>
+<!ELEMENT hints (#PCDATA)>
